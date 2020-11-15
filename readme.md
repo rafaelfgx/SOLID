@@ -130,7 +130,7 @@ public class PaymentService
 ### Good
 
 ```cs
-public interface IPayment
+public interface IPaymentMethod
 {
     void Pay();
 }
